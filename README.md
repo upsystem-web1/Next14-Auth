@@ -124,7 +124,6 @@ export default function NextAuthProvider({
 
 ### `app/utils/next-auth-options.ts`
 
-```markdown
 NextAuthの設定を定義します。Google認証を使用する例です。
 
 ```tsx
@@ -181,7 +180,6 @@ export { handler as GET, handler as POST };
 
 ### `app/components/Header.tsx`
 
-```markdown
 ヘッダーコンポーネントを定義します。セッション情報に基づいて、ユーザー名の表示やログアウトボタンを条件付きで表示します。
 
 ```tsx
@@ -243,7 +241,6 @@ export default Header;
 
 ### `app/login/page.tsx`
 
-```markdown
 ログインページを定義します。useSessionフックを使用してセッションの状態をチェックし、すでに認証されている場合はホームページにリダイレクトします。
 
 ```tsx
@@ -294,7 +291,6 @@ export default LoginPage;
 
 ### `app/profile/page.tsx`
 
-```markdown
 プロファイルページを定義します。useSessionフックを使用してセッション情報を取得し、ユーザーのプロファイル情報を表示します。
 
 ```tsx
@@ -340,7 +336,6 @@ export default Profile;
 
 ### `app/components/SessionSection.tsx`
 
-```markdown
 セッション情報に基づいて、ユーザーへの歓迎メッセージまたはログインプロンプトを表示するコンポーネントを定義します。
 
 ```tsx
