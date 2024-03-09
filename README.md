@@ -79,7 +79,7 @@ export default async function RootLayout({
 }
 ```
 
-### `Layout.tsx`
+### `app/page.tsx`
 
 ホームページを定義します。セッション情報をクライアントサイドで取得します。
 
