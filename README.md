@@ -373,6 +373,12 @@ export default SessionSection;
 
 サンプルコードを自身のプロジェクトに適用することで、Next.jsアプリケーションにおけるユーザー認証機能の追加とセッション管理を効率的に行うことが可能です。Next.jsとNextAuthを使用したセキュアなウェブアプリケーションの開発に役立ててください。
 
+## 参考
+
+このサンプルプロジェクトの作成にあたり、以下の記事を参考にしました。Next.jsとNextAuthのより深い理解や、さらなる応用例について学ぶには、是非参照してみてください。
+
+- [Next.js(App Router)にNextAuth.jsを導入しGoogle認証とX(Twitter)ログインを実現する](https://zenn.dev/igz0/articles/feeb6dd8e846d1)
+
 
 
 
