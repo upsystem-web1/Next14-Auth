@@ -104,7 +104,6 @@ export default async function Home() {
 
 ### `app/providers.tsx`
 
-```markdown
 NextAuthのセッションプロバイダーを定義します。これにより、アプリケーション全体でセッション情報が利用できるようになります。
 
 ```tsx
